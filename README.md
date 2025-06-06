@@ -1,5 +1,5 @@
 # TrainRef
-This is the official repository for the paper "Training Beyond Label Misinformation: Reliable Reference is All You Need" (Under ICML25 review)
+This is the official repository for the paper "TrainRef: Learning Distributional Labels with Minimal Reference for Noisy Data Curation" (Under NIPS25 review)
 
 
 ## Overview
